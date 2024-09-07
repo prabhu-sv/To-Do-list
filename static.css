@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+.container {
+    max-width: 600px;
+    margin-top: 20px;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.list-group-item {
+    border-radius: .25rem;
+    display: flex;
+    align-items: center;
+}
+
+.task-number {
+    font-weight: bold;
+    margin-right: 10px;
+    color: #007bff; /* Bootstrap primary color */
+    font-size: 1.2em;
+}
